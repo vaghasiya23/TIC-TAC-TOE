@@ -1,7 +1,7 @@
 **Tic Tac Toe**
 This is my beginner project, a simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript. It’s a basic two-player game where each player takes turns marking spaces on a 3x3 grid with X's or O's.
 
-**You can check out the live version of the game here:** crimson-marena-3.tiiny.site
+**You can check out the live version of the game here:* **[Tic Tac Toe](https://crimson-marena-3.tiiny.site/)**
 
 This is my beginner project, a simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript. It’s a basic two-player game where each player takes turns marking spaces on a 3x3 grid with X's or O's.
 

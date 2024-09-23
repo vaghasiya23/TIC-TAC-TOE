@@ -1,22 +1,18 @@
 Tic Tac Toe
-This is my beginner project, a simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript. It’s a basic two-player game where each player takes turns marking spaces on a 3x3 grid with X's or O's.
+This is my beginner project, a simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript. It’s a basic two-player game where players take turns marking spaces on a 3x3 grid with Xs or Os.
 
 Features
 Two-player mode: Local play between two users.
 Responsive Design: Built with HTML and CSS for a clean and adaptable UI.
 JavaScript Logic: Handles game flow, win conditions, and tie detection.
 How to Play
-Player 1 uses 'X' and Player 2 uses 'O'.
+Player 1 uses 'X', and Player 2 uses 'O'.
 Players alternate turns, placing their mark in any empty cell on the grid.
 The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins.
 If all cells are filled and there’s no winner, the game results in a tie.
 Installation
 To play the game locally:
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/username/tic-tac-toe.git
 Open the index.html file in your browser to start the game.
 Technologies Used
 HTML: For structuring the game layout.
